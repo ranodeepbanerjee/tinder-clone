@@ -1,0 +1,38 @@
+.bottomButtons{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    position: fixed;
+    bottom: 40px;
+}
+
+.bottomButtons .replay {
+    padding: 3vw !important;
+    color: rgb(225, 143, 157);
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.3);
+
+}
+.bottomButtons .flash {
+    padding: 3vw !important;
+    color: rgb(225, 54, 225);
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.3);
+
+}
+.bottomButtons .close {
+    padding: 3vw !important;
+    color: red;
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.3);
+
+}
+.bottomButtons .star {
+    padding: 3vw !important;
+    color: aqua;
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.3);
+
+}
+.bottomButtons .favorite {
+    padding: 3vw !important;
+    color: rgb(18, 191, 18);
+    box-shadow: 0px 10px 40px 0px rgba(0, 0, 0, 0.3);
+
+}
