@@ -3,7 +3,7 @@ import TinderCard from "react-tinder-card";
 import './TinderCards.css'
 
 function TinderCards() {
-  const [waifus, setWaifus] = React.useState([
+  const [waifus] = React.useState([
     {
       name: "Mai Sakurajima",
       url: "https://cdn.myanimelist.net/images/characters/2/366639.jpg",
